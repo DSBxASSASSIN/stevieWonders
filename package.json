@@ -1,0 +1,23 @@
+{
+  "name": "steviewonders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSBxASSASSIN/stevieWonders.git"
+  },
+  "author": "DSBxASSASSIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSBxASSASSIN/stevieWonders/issues"
+  },
+  "homepage": "https://github.com/DSBxASSASSIN/stevieWonders#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
